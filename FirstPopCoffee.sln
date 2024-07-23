@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoastPlanning.Tests", "RoastPlanning.Tests\RoastPlanning.Tests.csproj", "{A5AA6A31-DB0B-4CAC-AA26-B1BC9E30073A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{F8C0AA14-07BF-43BF-953F-D049E82F2283}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebUI", "WebUI\WebUI.csproj", "{F8C0AA14-07BF-43BF-953F-D049E82F2283}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
