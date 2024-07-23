@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoastPlanning.Tests", "RoastPlanning.Tests\RoastPlanning.Tests.csproj", "{A5AA6A31-DB0B-4CAC-AA26-B1BC9E30073A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{F8C0AA14-07BF-43BF-953F-D049E82F2283}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A5AA6A31-DB0B-4CAC-AA26-B1BC9E30073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5AA6A31-DB0B-4CAC-AA26-B1BC9E30073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5AA6A31-DB0B-4CAC-AA26-B1BC9E30073A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C0AA14-07BF-43BF-953F-D049E82F2283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C0AA14-07BF-43BF-953F-D049E82F2283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C0AA14-07BF-43BF-953F-D049E82F2283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C0AA14-07BF-43BF-953F-D049E82F2283}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
