@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoastPlanning", "RoastPlanning\RoastPlanning.csproj", "{D840B025-5852-4D3B-A0B8-7BCBDE954150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{3F9E80F7-9744-4B2E-8248-D80E2ED7E54F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoastPlanning.Tests", "RoastPlanning.Tests\RoastPlanning.Tests.csproj", "{A5AA6A31-DB0B-4CAC-AA26-B1BC9E30073A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D840B025-5852-4D3B-A0B8-7BCBDE954150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D840B025-5852-4D3B-A0B8-7BCBDE954150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D840B025-5852-4D3B-A0B8-7BCBDE954150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D840B025-5852-4D3B-A0B8-7BCBDE954150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9E80F7-9744-4B2E-8248-D80E2ED7E54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9E80F7-9744-4B2E-8248-D80E2ED7E54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9E80F7-9744-4B2E-8248-D80E2ED7E54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9E80F7-9744-4B2E-8248-D80E2ED7E54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5AA6A31-DB0B-4CAC-AA26-B1BC9E30073A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AA6A31-DB0B-4CAC-AA26-B1BC9E30073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AA6A31-DB0B-4CAC-AA26-B1BC9E30073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AA6A31-DB0B-4CAC-AA26-B1BC9E30073A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
